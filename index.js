@@ -100,7 +100,7 @@ const server = http.createServer((req, res) => {
       }
     } else {
       //processHeader(content);
-      console.log(filePath);
+      //console.log(filePath);
 
       res.writeHead(200, { "content-Type": contentType });
 
