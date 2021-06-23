@@ -4,7 +4,7 @@
   "description": "From YT-video node.js Crach course ",
   "main": "index.js",
   "scripts": {
-    "start": "node index",
+    "start": "node index.js",
     "dev": "nodemon index"
   },
   "author": "Brad/hordur",
